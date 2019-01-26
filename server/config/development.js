@@ -20,7 +20,7 @@ module.exports = {
   },
   githubConfig: {
     githubClient: '9588f02db3f89d176f36',
-    githubSecret: '10f4f1daa81764664fafb2e50be2c6985ef139f8',
+    githubSecret: '3fd3e1c3afe4f817c1cea7b3c292d60f9503709b',
     scope: 'user',
   },
   emailConfig: {
