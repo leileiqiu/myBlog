@@ -2,9 +2,9 @@
   <div class="blog">
     <div class="header-wraper">
       <header class="blog-header">
-        <div 
-          class="header-back" 
-          v-if="$route.params.id" 
+        <div
+          class="header-back"
+          v-if="$route.params.id"
           @click="$router.go(-1)">
           <i class="wmui icon-back"></i>
         </div>
@@ -57,7 +57,7 @@
       </a>
     </aside>
     <footer class="blog-footer">
-      <p>Powered by <a href="https://github.com/wmui/essay" target="_blank">Essay</a></p>
+      <p>Powered by <a href="https://github.com/leileiqiu/myBlog" target="_blank">Truly</a></p>
     </footer>
   </div>
 </template>
