@@ -1,13 +1,8 @@
 
-<a href="https://travis-ci.org/wmui/essay"><img src="https://travis-ci.org/wmui/essay.svg?branch=master" alt="Build Status"></a>
-<a href="https://github.com/wmui/vueblog"><img src="https://img.shields.io/badge/node-%3E%3D8.12.0-orange.svg" alt="Version"></a>
-<a href="https://github.com/wmui/essay"><img src="https://img.shields.io/badge/license-AGPL-blue.svg" alt="License"></a>
 
-## Essay
+<p><a href="http://111.231.118.203:3000/" target="_blank">演示站</a></p>
 
-<p><a href="https://www.86886.wang" target="_blank">演示站</a></p>
-
-Essay 原名 VueBlog，是一个基于 Nuxt2 开发的前后端同构应用，一个轻量级博客系统
+一个基于 Nuxt2 开发的前后端同构应用，一个轻量级博客系统
 
 ### 功能特性
 
@@ -39,9 +34,9 @@ $ sudo mongod --dbpath yourDBpath
 #### 运行项目
 
 ```bash
-$ git clone https://github.com/wmui/essay
+$ https://github.com/leileiqiu/myBlog.git
 
-$ cd essay
+$ cd myBlog
 
 $ yarn # 或 npm install
 
