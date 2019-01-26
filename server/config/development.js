@@ -3,7 +3,7 @@ module.exports = {
     role: 'superAdmin',
     username: 'q',
     password: 'q',
-    nickname: 'Essay',
+    nickname: 'Qiuleilei',
     email: 'qq22337383@gmail.com',
     motto: 'Never too old to learn',
   },
